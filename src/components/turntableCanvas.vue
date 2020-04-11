@@ -9,7 +9,7 @@
 			<p class="b1">2.import</p>
 				<p class="content">import 'turntable-canvas/css/turntable-canvas.min.css';</p>
 				<p class="content">import turntableCanvas from 'turntable-canvas';</p>
-			<p class="b2">demo地址</p>
+			<p class="b2">demo源码地址</p>
 				<a href="https://github.com/fwhf/turntable-canvas-demo" target="_blank">demo地址</a>
 			<p class="b2">turntable-canvas地址</p>
 				<a href="https://github.com/fwhf/turntable-canvas" target="_blank">turntable-canvas</a>
